@@ -1,0 +1,4 @@
+'''librearys'''
+"cs50" a special libreary provided by harvard
+"flask"- to develop the dynamic web-app
+"flask-session":- to record the sessions of the users
